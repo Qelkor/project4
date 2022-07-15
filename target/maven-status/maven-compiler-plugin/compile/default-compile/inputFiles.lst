@@ -1,0 +1,12 @@
+/Users/chrisreynolds/Desktop/Project4/src/main/java/com/bob/project4/Project4Application.java
+/Users/chrisreynolds/Desktop/Project4/src/main/java/com/bob/project4/authentication/TokenRepository.java
+/Users/chrisreynolds/Desktop/Project4/src/main/java/com/bob/project4/shoppingCart/CartEntity.java
+/Users/chrisreynolds/Desktop/Project4/src/main/java/com/bob/project4/profile/UserRepository.java
+/Users/chrisreynolds/Desktop/Project4/src/main/java/com/bob/project4/products/ProductRepository.java
+/Users/chrisreynolds/Desktop/Project4/src/main/java/com/bob/project4/profile/UserEntity.java
+/Users/chrisreynolds/Desktop/Project4/src/main/java/com/bob/project4/authentication/authEntity.java
+/Users/chrisreynolds/Desktop/Project4/src/main/java/com/bob/project4/products/ProductController.java
+/Users/chrisreynolds/Desktop/Project4/src/main/java/com/bob/project4/shoppingCart/CartController.java
+/Users/chrisreynolds/Desktop/Project4/src/main/java/com/bob/project4/profile/UserController.java
+/Users/chrisreynolds/Desktop/Project4/src/main/java/com/bob/project4/products/ProductEntity.java
+/Users/chrisreynolds/Desktop/Project4/src/main/java/com/bob/project4/shoppingCart/CartRepository.java
